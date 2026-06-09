@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.element1, .element2 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.element1 {
+    background-color: hsl(87, 82%, 2%);
+    color: #ffffff;
+
+}
+
+.element2 {
+    background-color: greenyellow;
+}
