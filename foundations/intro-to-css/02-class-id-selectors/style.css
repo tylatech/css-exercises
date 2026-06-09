@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.number-1 , .number-3 {
+    background-color: #f3a3f3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: #00ff0090;
+    font-size: 24px;
+    font-weight: 800px;
+}
